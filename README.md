@@ -71,13 +71,11 @@ I'm passionate about building intelligent systems that combine **AI, Robotics, E
 
 # 🚀 Featured Projects
 
-> *(Replace these with links to your repositories.)*
-
 * 🤖 Multi-Node Environmental Monitoring System (STM32 + MQTT + PoE)
 * 🚗 Line Follower Robot with PID Control
 * 🏟️ Indoor Court Booking System (Flutter + Firebase)
 * 📡 RTMP Live Streaming Server on DigitalOcean
-* 🖨️ 3D Printing Business Website
+* 🖨️ 3D Printing Business Website www.3dify.com
 
 ---
 
