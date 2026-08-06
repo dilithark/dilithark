@@ -1,74 +1,93 @@
-<div align="center">
+# Hi, I'm Dilitha Rajapaksha 
 
-# Dilitha Rajapaksha
+🎓 IT Undergraduate at University of Moratuwa  
+🤖 Aspiring Robotics Engineer | AI & Machine Learning Enthusiast  
+💻 Passionate about Software Development, Embedded Systems, and Computer Vision  
 
-**IT Undergraduate · University of Moratuwa**
+I enjoy building projects that combine **software, hardware, and AI**.  
+Currently exploring **Machine Learning, Robotics, IoT, Computer Vision, and Cloud Technologies**.
 
-*Building at the intersection of software, hardware, and intelligence.*
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dilitha_rajapaksha)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dilithar_k)
-[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:dilitharajapaksha3@gmail.com)
+## 🌐 Connect with me
 
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dilithar_k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dilitha_rajapaksha)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dilitharajapaksha3@gmail.com)
 
-<br>
+---
 
-## About
+# 💻 Tech Stack
 
-I'm an IT undergraduate exploring the space where software meets the physical world — robotics, embedded systems, computer vision, and machine learning. I like projects that don't stay on the screen: sensors, boards, and code working together.
+### Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart)
 
-Currently deepening my knowledge of **Machine Learning**, **Robotics**, **IoT**, and **Cloud Technologies**.
+### Web & Mobile Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3)
+![Flutter](https://img.shields.io/badge/flutter-%230256D1.svg?style=for-the-badge&logo=flutter)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-<br>
+### AI / Machine Learning / Computer Vision
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow)
+![OpenCV](https://img.shields.io/badge/OpenCV-white.svg?style=for-the-badge&logo=opencv)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda)
 
-## Technical Toolkit
+### Robotics & Embedded Systems
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino)
+![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif)
+![ROS](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=for-the-badge&logo=ros)
 
-| | |
-|---|---|
-| **Languages** | Python · Java · C · C++ · JavaScript · Dart |
-| **Web & Mobile** | HTML5 · CSS3 · Flutter · Firebase |
-| **AI / ML / CV** | TensorFlow · OpenCV · Anaconda |
-| **Robotics & Embedded** | Arduino · ESP32 · ROS |
-| **Data & Cloud** | MySQL · MongoDB · SQLite · Google Cloud · Nginx |
-| **Design** | Figma · Blender · Adobe Photoshop |
+### Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx)
 
-<br>
+### Design & Creative Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender)
+![Adobe Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop)
 
-## Areas of Focus
+---
 
-- Robotics & Autonomous Systems
-- Artificial Intelligence & Machine Learning
-- Computer Vision
-- IoT & Embedded Systems
-- Cloud Computing
-- Full-Stack Development
+# 🚀 Featured Interests
 
-<br>
+🤖 Robotics & Autonomous Systems  
+🧠 Artificial Intelligence & Machine Learning  
+👁️ Computer Vision  
+🌐 IoT & Embedded Systems  
+☁️ Cloud Computing  
+📱 Full Stack Development  
 
-## GitHub Activity
+---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/dilithark/dilithark/output/github-contribution-grid-snake.svg" />
-</div>
+## 🐍 GitHub Contribution Snake
 
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dilithark/dilithark/output/github-contribution-grid-snake.svg" />
+</p>
 
-<div align="center">
+# 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dilithark&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilithark&theme=default&hide_border=true&layout=compact" />
+![](https://github-readme-stats.vercel.app/api?username=dilithark&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<img src="https://streak-stats.demolab.com/?user=dilithark&theme=default&hide_border=true" />
+![](https://streak-stats.demolab.com/?user=dilithark&theme=dark&hide_border=false)
 
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dilithark&theme=dark&hide_border=false&layout=compact)
 
-<br>
+---
 
-<div align="center">
+### ✍️ Random Dev Quote
 
-<sub>Thanks for stopping by.</sub>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-![Profile Views](https://komarev.com/ghpvc/?username=dilithark&color=lightgrey&style=flat-square)
+---
 
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=dilithark&color=blue)
