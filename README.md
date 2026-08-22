@@ -75,7 +75,7 @@ I'm passionate about building intelligent systems that combine **AI, Robotics, E
 * 🚗 Line Follower Robot with PID Control
 * 🏟️ Indoor Court Booking System (Flutter + Firebase)
 * 📡 RTMP Live Streaming Server on DigitalOcean
-* 🖨️ 3D Printing Business Website www.3difyprintz.com
+* 🖨️ 3D Printing Business Website [www.3difyprintz.com](https://3difyprintz.rf.gd/)
 
 ---
 
